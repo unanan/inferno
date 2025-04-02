@@ -18,7 +18,7 @@ mediapipe
 munch==2.5.0
 numpy==1.23.0
 numpy
-onnxruntime-gpu==1.9.0
+onnxruntime-gpu
 opencv-contrib-python==4.7.0.72
 opencv-python==4.7.0.72
 opencv-python-headless==4.7.0.72
