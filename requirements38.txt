@@ -9,7 +9,7 @@ gdown==4.5.1
 h5py==3.8.0
 hickle==5.0.2
 huggingface-hub==0.16.4
-hydra-core==1.0.7
+hydra-core
 imgaug==0.4.0
 insightface==0.6.2
 kornia==0.6.5
