@@ -26,7 +26,7 @@ echo "Installing other requirements"
 pip install -r requirements38.txt
 pip install Cython==0.29
 echo "Making sure Pytorch3D installed correctly"
-pip install git+https://github.com/facebookresearch/pytorch3d.git@v0.6.2
+pip install git+https://githubfast.com/facebookresearch/pytorch3d.git@v0.6.2
 echo "Installing INFERNO"
 pip install -e . 
 
