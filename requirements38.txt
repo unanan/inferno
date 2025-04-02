@@ -14,7 +14,7 @@ imgaug==0.4.0
 insightface==0.6.2
 kornia==0.6.5
 matplotlib==3.2.2
-mediapipe==0.8.10
+mediapipe
 munch==2.5.0
 numpy==1.23.0
 numpy
